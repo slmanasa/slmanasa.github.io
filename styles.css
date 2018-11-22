@@ -1,0 +1,81 @@
+:root
+{
+    font-size: 16px;
+}
+.paragraphDesign
+{
+    padding-top:30vh;
+    text-align:center;
+    color:#45b29a;
+    padding-bottom: 30vh;
+}
+.sameImageSize img
+{
+    width:20%;
+    height:20%;
+}
+.paragraphFont
+{
+    font-family: Arial;
+    color: grey;
+    word-spacing:3px;
+    letter-spacing: 1px;
+    text-align: center;
+}
+.paragraphFontHead
+{
+    color:#45b29a;
+    font-family: Arial;
+    padding-top: 2rem;
+}
+.namePara
+{
+    font-size: 3rem;
+    font-family:"Comic Sans MS", cursive, sans-serif;
+}
+.textPara
+{
+    font-size:1.5rem;
+    font-family:Arial, Helvetica, sans-serif;
+}
+a:link, a:visited
+{
+    color:black;
+    text-decoration: none;
+}
+a:hover,a:active{
+    
+    color:grey !important; 
+    text-decoration: none;
+    
+}
+.themeColor
+{
+   color:#45b29a;
+ 
+}
+.whatCanIDo
+{
+    text-align: center;
+    color:#1e836c; 
+    font-size: 2.6rem;
+}
+.technologiesHead
+{
+    color:#45b29a;
+    text-align: center;
+}
+.techImage
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 2rem;
+    border-radius:50%;
+}
+.imageText
+{
+    text-align: center;
+    color:#1e836c;
+     padding-bottom: 1rem;
+}
